@@ -1,0 +1,49 @@
+C:\Users\DELL\source\repos\Project manager\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\DELL\source\repos\Project manager\bin\Debug\net8.0\appsettings.json
+C:\Users\DELL\source\repos\Project manager\bin\Debug\net8.0\Project manager.staticwebassets.runtime.json
+C:\Users\DELL\source\repos\Project manager\bin\Debug\net8.0\Project manager.staticwebassets.endpoints.json
+C:\Users\DELL\source\repos\Project manager\bin\Debug\net8.0\Project manager.exe
+C:\Users\DELL\source\repos\Project manager\bin\Debug\net8.0\Project manager.deps.json
+C:\Users\DELL\source\repos\Project manager\bin\Debug\net8.0\Project manager.runtimeconfig.json
+C:\Users\DELL\source\repos\Project manager\bin\Debug\net8.0\Project manager.dll
+C:\Users\DELL\source\repos\Project manager\bin\Debug\net8.0\Project manager.pdb
+C:\Users\DELL\source\repos\Project manager\bin\Debug\net8.0\DnsClient.dll
+C:\Users\DELL\source\repos\Project manager\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\DELL\source\repos\Project manager\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\DELL\source\repos\Project manager\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\DELL\source\repos\Project manager\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\DELL\source\repos\Project manager\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\DELL\source\repos\Project manager\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\DELL\source\repos\Project manager\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\DELL\source\repos\Project manager\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\DELL\source\repos\Project manager\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\DELL\source\repos\Project manager\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\DELL\source\repos\Project manager\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\DELL\source\repos\Project manager\bin\Debug\net8.0\Snappier.dll
+C:\Users\DELL\source\repos\Project manager\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\DELL\source\repos\Project manager\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\DELL\source\repos\Project manager\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\DELL\source\repos\Project manager\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\DELL\source\repos\Project manager\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\DELL\source\repos\Project manager\obj\Debug\net8.0\Project manager.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Project manager\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\DELL\source\repos\Project manager\obj\Debug\net8.0\Project manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\Project manager\obj\Debug\net8.0\Project manager.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\Project manager\obj\Debug\net8.0\Project manager.AssemblyInfo.cs
+C:\Users\DELL\source\repos\Project manager\obj\Debug\net8.0\Project manager.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Project manager\obj\Debug\net8.0\Project manager.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\DELL\source\repos\Project manager\obj\Debug\net8.0\Project manager.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DELL\source\repos\Project manager\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\DELL\source\repos\Project manager\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\DELL\source\repos\Project manager\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\DELL\source\repos\Project manager\obj\Debug\net8.0\scopedcss\bundle\Project manager.styles.css
+C:\Users\DELL\source\repos\Project manager\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\DELL\source\repos\Project manager\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\DELL\source\repos\Project manager\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\DELL\source\repos\Project manager\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\DELL\source\repos\Project manager\obj\Debug\net8.0\Project .0112DC88.Up2Date
+C:\Users\DELL\source\repos\Project manager\obj\Debug\net8.0\Project manager.dll
+C:\Users\DELL\source\repos\Project manager\obj\Debug\net8.0\refint\Project manager.dll
+C:\Users\DELL\source\repos\Project manager\obj\Debug\net8.0\Project manager.pdb
+C:\Users\DELL\source\repos\Project manager\obj\Debug\net8.0\Project manager.genruntimeconfig.cache
+C:\Users\DELL\source\repos\Project manager\obj\Debug\net8.0\ref\Project manager.dll
